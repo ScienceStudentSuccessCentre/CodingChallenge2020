@@ -1,0 +1,16 @@
+You are given a program that is used to simulate the motion of an object. This program will give the horizontal and vertical position based on the theoretical and Euler appoximation. Please convert this Java program into Python program according to the following requirement:
+
+1. You will need to create a file called Simulation.py
+2. Your new program should be written in Python only and should compile and run without error
+3. You can only use process-oriened programming method
+4. You are allowed to copy the implementation of functions
+5. Your new program should only contain one function: main()
+6. Study the sample code carfully. Please notice the error handling
+7. Add proper comment if possible
+8. Good luck
+
+Here are some source and explanation that you may need:
+https://en.wikipedia.org/wiki/Euler_method
+https://calcworkshop.com/first-order-differential-equations/eulers-method-table/
+https://en.wikipedia.org/wiki/Trajectory
+https://opentextbc.ca/physicstestbook2/chapter/projectile-motion/
